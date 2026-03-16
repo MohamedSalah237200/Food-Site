@@ -15,4 +15,4 @@ A responsive and dynamic food restaurant website built using React.js. This plat
     Frontend: React.js
     Styling: CSS
 
-Live Demo : https://jade-youtiao-3c2a0e.netlify.app/
+Live Demo : 
